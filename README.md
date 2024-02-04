@@ -1,6 +1,7 @@
 # random_forest_w_python
 
 Project Overview
+
 This project develops a predictive model to identify behaviors that determine active engagement among content creators on our digital platform. Active creators are those who frequently update their profiles, add quality content, and maintain an aesthetically pleasing profile without becoming inactive or churning.
 
 Objective
